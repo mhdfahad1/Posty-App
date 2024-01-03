@@ -1,0 +1,6 @@
+[submodule "cred-backend"]
+	path = cred-backend
+	url = https://github.com/mhdfahad1/cred-backend.git
+[submodule "POSTY"]
+	path = POSTY
+	url = https://github.com/mhdfahad1/POSTY.git
